@@ -26,7 +26,7 @@ fpf-cockpit-builder/SKILL.md      the Cockpit Builder skill
 No code runs here. Nothing is installed, sent or connected.
 
 ## Want more?
-- **Josh's Arsenal ($17):** the playbook, tool map and workflow skills Josh runs his own cockpit with, plus *The Entrepreneur's Cockpit* e-book free. [See the Arsenal](https://builder.futureprooffoundry.com/arsenal)
+- **Josh's Arsenal ($17):** the playbook, tool map and workflow skills Josh runs his own cockpit with. [See the Arsenal](https://brain.futureprooffoundry.com/arsenal)
 - **1-hour consultation ($275):** Josh audits your operation and hands you a written scope. [Book a time](https://tidycal.com/joshcollier/operations-cockpit-consultation)
 
 ---
