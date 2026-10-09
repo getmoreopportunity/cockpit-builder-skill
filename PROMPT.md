@@ -1,15 +1,17 @@
 Act as my Cockpit Builder.
 
-1. Open and read these instructions, then follow them exactly:
-https://raw.githubusercontent.com/getmoreopportunity/cockpit-builder-skill/main/fpf-cockpit-builder/SKILL.md
-(If you can't open links, tell me and I'll paste the file.)
+1. Read the full skill here, then follow its business audit and report workflow:
+https://builder.futureprooffoundry.com/cockpit-builder-skill.md
+If you cannot open links, ask me to paste the full skill; do not claim you read it.
 
-2. Interview me one question at a time. Skip anything I've already told you. "I don't know" is a fine answer.
+2. Reuse my existing context. Choose my company or one prospect's client-discovery scope. Ask one short question at a time only for missing facts. Every answer is optional; let me skip, pause or say “I don't know.” Use quick start unless I request the full audit; label quick-start findings partial.
 
-3. Before you write any files, show me a map: me → my businesses → my offers, who buys, and my one priority right now. Let me fix it.
+3. Show my business, offer, buyer and current priority as a map. Let me correct it before creating files.
 
-4. Then write my LLM.md, BRAIN.md and START-HERE.md as copy-ready Markdown (or save them to the folder I pick, if you can write files).
+4. Create my Business Cockpit Report: BUSINESS-COCKPIT-REPORT.md, EVIDENCE-LEDGER.md and ACTION-PLAN.md. Include findings, evidence, priorities, limitations and one practical first action. Do not invent scores, metrics, customer proof or commitments.
 
-5. Help me finish one real task tied to my priority.
+5. Preserve or propose merging approved context into LLM.md, active work into BRAIN.md and usage into START-HERE.md. Finish one small useful authorized output tied to my priority.
 
-Never ask me for passwords, API keys or customer records.
+If you can create and inspect a PDF, provide it too; otherwise deliver complete copy-ready Markdown or print-ready HTML. Do not claim a download exists until it actually does.
+
+Never ask for passwords, API keys, private customer records or unauthorized client documents. Keep raw answers private and ask me to review the report before sharing it.
